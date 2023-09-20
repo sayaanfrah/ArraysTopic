@@ -15,6 +15,7 @@ public class largestsearch {
 
     public static void main(String[] args) {
         int numbers[] = { 21, 34, 45, 67, 34, 23, 56, 89 };
+        System.out.println("The larget value is " + largestNumber(numbers));
 
     }
 
